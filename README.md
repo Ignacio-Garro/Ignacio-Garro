@@ -33,7 +33,6 @@ I'm a final-year Software Engineering student and the lead developer of **[Deep 
 |---------|-----------|-------|
 | **[Deep Panic](https://github.com/Ignacio-Garro/Deep-Panic-Showcase)** | Co-op submarine horror game (lead dev) → Steam | Unity HDRP, C#, netcode |
 | **[VR Drone Study](https://github.com/Ignacio-Garro/TFG-Drone)** | Thesis: gesture vs. gamepad drone control in VR | Unity, Meta Quest 3 |
-| **[Catan](https://github.com/Ignacio-Garro/Catan)** | Networked multiplayer Settlers of Catan | Java, JavaFX, TCP, RMI |
 
 ---
 
