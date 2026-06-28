@@ -4,7 +4,7 @@
 
 Finishing my Software Engineering degree at UCM while running two real projects:
 
-- A **full-stack website** for a live client (design → dev → deployment)
+- **Freelance web developer** — designed, built, and maintain WordPress sites for real clients, end to end from Figma UI to deployment.
 - **[Deep Panic](https://store.steampowered.com/app/3473920/Deep_Panic/)**, a co-op multiplayer horror game heading to Steam where I lead a small team with Scrum — across Unity/HDRP development, marketing, and launch strategy
 
 Active in game jams and programming events, always looking for an excuse to learn new tools and build with other people. 🎯 Open to software engineering roles across Europe.
