@@ -2,9 +2,10 @@
 
 **Creative problem solver who ships — I build things end to end, from concept to deployment.**
 
-Finishing my Software Engineering degree at UCM while running two real projects: 
--a full-stack website for a live client (design → dev → deployment) 
--**[Deep Panic](https://store.steampowered.com/app/3473920/Deep_Panic/)**, a co-op multiplayer horror game heading to Steam where I lead a small team with Scrum — across Unity/HDRP development, marketing, and launch strategy.
+Finishing my Software Engineering degree at UCM while running two real projects:
+
+- A **full-stack website** for a live client (design → dev → deployment)
+- **[Deep Panic](https://store.steampowered.com/app/3473920/Deep_Panic/)**, a co-op multiplayer horror game heading to Steam where I lead a small team with Scrum — across Unity/HDRP development, marketing, and launch strategy
 
 Active in game jams and programming events, always looking for an excuse to learn new tools and build with other people. 🎯 Open to software engineering roles across Europe.
 
@@ -20,4 +21,3 @@ Active in game jams and programming events, always looking for an excuse to lear
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-garro-san)
 [![Steam](https://img.shields.io/badge/Wishlist_Deep_Panic-1b2838?logo=steam&logoColor=white)](https://store.steampowered.com/app/3473920/Deep_Panic/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@DeadWatersDev)
-
